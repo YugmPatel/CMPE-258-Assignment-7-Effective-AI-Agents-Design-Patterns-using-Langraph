@@ -77,6 +77,18 @@ This repository includes detailed video walkthroughs of all implemented patterns
 
 2. **CrewAI Walkthrough**: A detailed walkthrough of the same patterns implemented in Crew.AI, highlighting differences in approach and capabilities.
 
+**[Watch Complete Video Demonstrations on YouTube](https://youtu.be/4ngHNNSvwf0)**
+
+The video demonstrations include:
+- Pattern explanations and theoretical background
+- Implementation details and code walkthroughs
+- Live executions with example inputs
+- Analysis of execution traces
+- Debugging techniques and common issues
+- Performance considerations
+- Comparative analysis between frameworks
+- Best practices and recommendations for production use
+
 ## Requirements
 
 - Python 3.10+
@@ -114,16 +126,3 @@ Each notebook follows a consistent structure:
 5. **Tracing and Debugging**: Visualization of the execution flow
 6. **Analysis**: Discussion of advantages, limitations, and best practices
 7. **Extensions**: Suggestions for extending or customizing the pattern
-
-## Video Walkthrough Content
-
-The video walkthroughs cover:
-
-1. Pattern explanation and theoretical background
-2. Implementation details and code walkthrough
-3. Live execution with example inputs
-4. Analysis of execution traces
-5. Debugging techniques and common issues
-6. Performance considerations
-7. Comparison between frameworks
-8. Best practices and recommendations
